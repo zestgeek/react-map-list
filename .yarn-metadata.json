@@ -1,0 +1,43 @@
+{
+  "manifest": {
+    "name": "react-map-list",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "build": "./node_modules/.bin/babel src --out-file index.js"
+    },
+    "peerDependencies": {
+      "react": "^16.6.1",
+      "react-dom": "^16.6.3"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/zestgeek/react-map-list.git"
+    },
+    "author": {},
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/zestgeek/react-map-list/issues"
+    },
+    "homepage": "https://github.com/zestgeek/react-map-list#readme",
+    "devDependencies": {
+      "@babel/cli": "^7.1.5",
+      "@babel/core": "^7.1.6",
+      "@babel/preset-env": "^7.1.6",
+      "@babel/preset-react": "^7.0.0"
+    },
+    "_registry": "npm",
+    "_loc": "/Users/zestgeek12/Library/Caches/Yarn/v2/npm-react-map-list-1.0.0-5c4033fd-e0a9-4f8e-9e2d-4a1409ce29c1-1542720700391/package.json"
+  },
+  "artifacts": [],
+  "remote": {
+    "type": "copy",
+    "registry": "npm",
+    "hash": "90684b26-d176-4bc7-acd0-352b3a93740f-1542722392720",
+    "reference": "/usr/local/lib/node_modules/react-map-list"
+  },
+  "registry": "npm",
+  "hash": "90684b26-d176-4bc7-acd0-352b3a93740f-1542722392720"
+}
